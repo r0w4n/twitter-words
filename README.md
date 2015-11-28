@@ -13,3 +13,7 @@ Yeilds:
 encoded => 怔蓼ᡃ⯳
 
 decoded => how now brown cow
+
+##Limiations 
+* unable to use punctuation
+* limited to 2^16 dictionary 
