@@ -9,5 +9,7 @@ console.info('decoded => ', encoded.twitterDecode(dictionary));
 
 ```
 Yeilds:
+
 encoded => 怔蓼ᡃ⯳
+
 decoded => how now brown cow
