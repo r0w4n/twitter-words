@@ -8,12 +8,13 @@ console.info('encoded => ', encoded);
 console.info('decoded => ', encoded.twitterDecode(dictionary));
 
 ```
-Yeilds:
+Yields:
 
 encoded => 怔蓼ᡃ⯳
 
 decoded => how now brown cow
 
 ##Limiations 
-* unable to use punctuation
+* unable to use punctuation and digits. Only words. 
 * limited to 2^16 dictionary 
+*
