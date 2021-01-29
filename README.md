@@ -14,7 +14,6 @@ encoded => 怔蓼ᡃ⯳
 
 decoded => how now brown cow
 
-##Limitations 
+## Limitations 
 * unable to use punctuation and digits. Only words. 
-* limited to 2^16 dictionary 
-*
+* limited to 2^16 dictionary
